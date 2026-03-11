@@ -1,0 +1,5 @@
+{
+  "name": "GeniusKid AI",
+  "description": "An intelligent learning companion for children aged 5-6, fostering curiosity, creativity, and emotional intelligence through playful AI interactions.",
+  "requestFramePermissions": ["microphone"]
+}
